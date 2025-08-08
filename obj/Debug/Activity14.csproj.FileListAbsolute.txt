@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Activity14\bin\Debug\Activity14.exe.config
+C:\Users\HP\source\repos\Activity14\bin\Debug\Activity14.exe
+C:\Users\HP\source\repos\Activity14\bin\Debug\Activity14.pdb
+C:\Users\HP\source\repos\Activity14\obj\Debug\Activity14.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Activity14\obj\Debug\Activity14.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Activity14\obj\Debug\Activity14.exe
+C:\Users\HP\source\repos\Activity14\obj\Debug\Activity14.pdb
